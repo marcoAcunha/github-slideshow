@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our MarcoAcunha slide!"
 ---
-catjam
+This is my pogchamp slide
 Use the left arrow to go back!
